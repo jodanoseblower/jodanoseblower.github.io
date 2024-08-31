@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](OIP.jpg)
+![Scary Hacker](OIP.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
